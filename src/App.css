@@ -21,6 +21,15 @@
 .App-link {
   color: #61dafb;
 }
+.wrapper {
+  margin: 20px auto;
+  flex: 1;
+}
+.main {
+margin: auto 10%;
+padding: 2%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
 @keyframes App-logo-spin {
   from {
